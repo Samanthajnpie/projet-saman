@@ -1,0 +1,111 @@
+
+style{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.menu{
+    list-style: none;
+    
+}
+.nav{
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+   border: 2px solid rgb(248, 26, 92)
+    
+}
+.btn0{
+    /* height: 38px; */
+    width: 50px;
+    outline: none;
+    border:none;
+    /* background: rgb(248, 26, 92); */
+    /* color: white; */
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    /* font-weight: 700; */
+    /* margin-right:10%; */
+    /* margin-top:30px; */
+     
+   
+}
+.btn1
+{
+    border-radius: 60px;
+    width: 30%;
+    height: 30px;
+    background: rgb(248, 26, 92);
+    border:none;
+    color: white;
+}
+.position{
+    
+
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.joli{
+    
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+
+    outline: none;
+    border: none;
+    /* margin-right: -25px; */
+    /* width: 600px; */
+    /* height: 38px; */
+    /* margin-top: 4%; */
+
+}
+.main{
+    background: url(./images/images12.jpg)no-repeat;
+    background-size: cover;
+    height:100vh;
+    background-position: 50% 50%;
+    width: 100%;
+
+}
+.main .h1{
+    font-size: 4rem;
+    font-weight: 700;
+
+}
+.btn2{
+    /* height: 40px; */
+    /* width:45% ; */
+    border:none;
+    outline: none;
+    /* background-color:rgb(248, 26, 92); */
+    /* color: white; */
+    /* font-weight: 700; */
+    /* border-radius: 60px;  */
+
+}
+
+.anba :hover{
+    border-bottom: solid 10px red;
+}
+
+
+
+<div class="col-lg-3">  
+
+  <p>aide et contact </p>
+  <p>A propos de l un</p>
+</div>
+     
+<div class="col-lg-3">  
+
+  <p>aide et contact </p>
+  <p>A propos de l un</p>
+</div>
+     
